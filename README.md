@@ -51,7 +51,10 @@ I'm currently diving deep into ![Docker](https://img.shields.io/badge/Docker-249
 
 ## 📊 GitHub Stats
 
-![Christy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT22051448&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![Christy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT22051448&show_icons=true&count_private=true&hide=prs&theme=tokyonight) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT22051448&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT22051448&theme=tokyonight)
+
 
 ## 🌐 Let's Connect!
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Christy's LinkedIn](https://www.linkedin.com/in/christy-kingsley-062b98341/)
